@@ -9,7 +9,7 @@
   "peticion":[
     { 
       "ip_destino":"1.1.1.1:1604",
-      "descripcion": "Citrix enum",
+      "descripcion": "Citrix ICA protocol",
       "intentos": 1000,
       "paquete": [
         "2a00013202fda8e300000000000000000000000000000000000000000100020000000000000000000000",
