@@ -69,7 +69,7 @@ namespace UDPRequester
             //# El usuario debe fijarse si se produce muchas excepciones de golpe para detener el proceso o dejarlo seguir:
             try
             {
-                using (PacketCommunicator communicator = this.selectedDevice.Open(65535, PacketDeviceOpenAttributes.None, 1000))
+                using (PacketCommunicator communicator = this.selectedDevice.Open(10, PacketDeviceOpenAttributes.None, 1))
                 {
                     int contador_de_intentos = 1;
                     do

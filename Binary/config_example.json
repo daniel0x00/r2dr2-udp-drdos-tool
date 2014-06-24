@@ -27,13 +27,13 @@
       "descripcion": "NTP protocol",
       "intentos": 100,
       "paquete": [
-        "4f5054494f4e53207369703a614061205349502f322e300d0a5669613a205349502f322e302f554450203139322e3136382e312e313a353036303b6272616e63683d310d0a46726f6d3a203c7369703a6140613e3b7461673d310d0a546f3a203c7369703a6240623e0d0a43616c6c2d49443a2039370d0a435365713a2032204f5054494f4e530d0a0d0a" ]
+        "1700032a00000000" ]
     },
     {
       "ip_destino":"4.4.4.4:19",
       "descripcion": "CharGEN protocol",
       "intentos": 1,
-      "paquete": [ "0" ]
+      "paquete": [ "00" ]
     }
   ]
 }
