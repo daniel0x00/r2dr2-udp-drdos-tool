@@ -19,7 +19,7 @@ Please read a review (with example video) of this project on:
 Requirements
 -----
 
-- .NET Framework v4.5
+- .NET Framework v4.5.1 (older versions can cause a crash)
 - WinPcap v4.1.3
 - Not be on a network with active BCP 38 ingress filtering (only if you want to spoof a public IP).
 
