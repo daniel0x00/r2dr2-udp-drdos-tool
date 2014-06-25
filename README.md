@@ -8,7 +8,7 @@ A simple application to create a DRDoS UDP Amplification attacks.
 Features
 -----
 - Allow IP Spoofing of public src address. 
-- Allow exploiting of multiples services by introducing hex payloads.
+- Allow exploiting of multiples services by introducing hex payloads. Proven compatibility with protocols: Citrix ICA, SIP, NTP, CharGEN.
 - Allow configurable multi-threading system.
 - Allow pivoting system on the same binary (opening 9000/udp port).
 
